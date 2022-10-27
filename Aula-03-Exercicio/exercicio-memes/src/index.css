@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #161616;
+  margin: 0;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+
+
+.rodape {
+  height: 60px;
+  border-top: 1px solid #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #444;
+  font-size: 11px;
+}

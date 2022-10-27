@@ -1,0 +1,22 @@
+ .Content .posts {
+    min-height: calc(100vh - 120px);
+  }
+  
+  .Content .post {
+    margin: 20px auto;
+    max-width: 480px;
+    width: 100%;
+    border: 1px solid #222;
+    border-radius: 9px;
+    overflow: hidden;
+  }
+  
+  .Content .titulo {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 20px;
+  }
+
+  .Content .post img {
+    width: 100%;
+  }
